@@ -1,0 +1,11 @@
+{
+  "open_ai_api_key": "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",
+  "wechaty_puppet_service_token": "WECHATY PUPPET SERVICE TOKEN",
+  "single_chat_prefix": ["小白", "@小白"],
+  "single_chat_reply_prefix": "[小白] ",
+  "group_chat_prefix": ["@小白"],
+  "group_name_white_list": ["ChatGPT测试群", "厦门剧本杀小分队", "厦门逛吃小分队", "我们程序员", "SpEcTrOmAnCeR"],
+  "image_create_prefix": ["画", "看", "找"],
+  "conversation_max_tokens": 2000,
+  "character_desc": "你是ChatGPT, 一个由OpenAI训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。"
+}
